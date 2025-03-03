@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "6a6fed1db1d7a370",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8656756a0570e0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39295a90d9daa722",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Online Learning Applications/3 - Adversarial MAB.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "3 - Adversarial MAB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f8ed2a2818d15bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "112e006a3d539a21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd5757f5b07bd720",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "2bdaf96865f4bef3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "1adec4ad23b09e9b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "c9267d9329f74e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9e1f7f8adece022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4d3eaf015b7fced",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "7cfd95cd82260153",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "f336cd6c1fd980e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "7cd11f691ea5ea1e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bienvenue.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de Bienvenue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "39295a90d9daa722",
+  "lastOpenFiles": [
+    "Natural Language Processing/2 - ClassifyingText.pdf",
+    "Natural Language Processing/2 - Classifying Text.pdf",
+    "Natural Language Processing/4 - Clustering Text.pdf",
+    "Natural Language Processing/3 - Searching Text.pdf",
+    "Natural Language Processing/3_SearchingText.pdf",
+    "Natural Language Processing/4_ClusteringText.pdf",
+    "Machine Learning/Studwiz Notes ML.pdf",
+    "Machine Learning/3 - Regression.pdf",
+    "Computer Graphics/22 - Applications.pdf",
+    "Computer Graphics/21 - Pipeline creation and Commands execution.pdf",
+    "Computer Graphics/20 - Layouts - Part 2.pdf",
+    "Online Learning Applications/Online Learning Applications.md",
+    "Traitement du Signal.md",
+    "Online Learning Applications/Electronique Numérique.md",
+    "Excalidraw/Drawing 2025-03-03 09.26.00.excalidraw.md",
+    "Online Learning Applications/Traitement du Signal.md",
+    "High-Tech Entrepreneurship/Start with a problem.md",
+    "FinTech/Machine Learning/Machine Learning.md",
+    "Fintech/Blockchain/Blockchain.md",
+    "Bienvenue.md"
+  ]
+}
