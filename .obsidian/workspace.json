@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d8656756a0570e0b",
+        "id": "8b03ee0bdf15a917",
         "type": "tabs",
         "children": [
           {
-            "id": "39295a90d9daa722",
+            "id": "e6bd1dfd3f43cbfa",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Online Learning Applications/3 - Adversarial MAB.pdf"
+                "file": "Natural Language Processing/2 - Classifying Text.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "3 - Adversarial MAB"
+              "title": "2 - Classifying Text"
             }
           }
         ]
@@ -138,16 +138,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bienvenue.md",
+                "file": "Natural Language Processing/2 - Classifying Text.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Plan de Bienvenue"
+              "title": "Plan de 2 - Classifying Text"
+            }
+          },
+          {
+            "id": "4db565f378f48490",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,17 +167,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Ouvrir le sélecteur rapide": true,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
+      "daily-notes:Ouvrir la note quotidienne": true,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "command-palette:Ouvrir la palette de commandes": true,
+      "canvas:Créer une nouvelle toile": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "39295a90d9daa722",
+  "active": "e6bd1dfd3f43cbfa",
   "lastOpenFiles": [
+    "2025-03-03.md",
+    "Sans titre.canvas",
+    "Online Learning Applications/3 - Adversarial MAB.pdf",
     "Natural Language Processing/2 - ClassifyingText.pdf",
     "Natural Language Processing/2 - Classifying Text.pdf",
     "Natural Language Processing/4 - Clustering Text.pdf",
@@ -176,8 +191,6 @@
     "Machine Learning/Studwiz Notes ML.pdf",
     "Machine Learning/3 - Regression.pdf",
     "Computer Graphics/22 - Applications.pdf",
-    "Computer Graphics/21 - Pipeline creation and Commands execution.pdf",
-    "Computer Graphics/20 - Layouts - Part 2.pdf",
     "Online Learning Applications/Online Learning Applications.md",
     "Traitement du Signal.md",
     "Online Learning Applications/Electronique Numérique.md",
